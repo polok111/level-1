@@ -1,0 +1,25 @@
+.grade1-container{
+    height: 124px;
+    width: 1200px;
+    background-image: linear-gradient(to right, #124389, #cf1688);
+    margin: 0 145px;
+    margin-top: 20px;
+}
+
+.grade1-container-text{
+    padding: 38px 50px; 
+    color: #FFFFFF;
+}
+.grade1-content{
+    display: flex; 
+    justify-content: end;
+    position: relative; 
+    top: -98px;
+}
+.grade1-content-text{
+    height: 25px; 
+    width: 333px; 
+    padding-top: 15px; 
+    padding-right: 45px; 
+    padding-bottom: 15px;
+}
